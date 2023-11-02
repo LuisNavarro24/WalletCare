@@ -32,6 +32,10 @@ Las Características Premium significan un conjunto adicional de servicios que a
 Contenido significa algo que se expresara en WalletCare, sitio web u otros medios. El contenido puede ser creado por el proveedor o por el usuario.
 
 
+Manejo de cuentas en la aplicación
+Las cuentas que registras en WalletCare representan los fondos reales de tus cuentas. Para que la aplicación sea favorable para el usuario, se requiere que dicho usuario registre sus movimientos correcta y constantemente. WalletCare y sus desarrolladores no guardan ninguna cuenta ni transacción. No es necesario escribir el código de cuenta real al momento de crear una cuenta en la aplicación, ya que esto solamente es referencia para el usuario.
+
+
 ¿Qué información solicitamos y como la recopilamos?
 
 Procesamos los datos personales de identificación que usted nos proporciona cuando crea una cuenta y completa formularios durante el proceso de registro. Para registrarse en la aplicación WalletCare, es necesario iniciar sesión a través de los servicios de Google. Este inicio de sesión nos ayuda a brindarle las características premium de la aplicación. Iniciar sesión con Google es voluntario, ya que la aplicación se puede utilizar sin las características premium de la aplicación. Cuando elige iniciar sesión en la aplicación utilizando su cuenta de Google, recibiremos parte de la información de su cuenta de Google correspondiente a su configuración de privacidad de Google. 
