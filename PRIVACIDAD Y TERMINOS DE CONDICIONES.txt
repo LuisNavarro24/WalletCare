@@ -1,7 +1,7 @@
 PÓLITICA DE PRIVACIDAD Y TERMINOS DEL SERVICIO PARA LA APLICACIÓN “WalletCare”
 Última modificación: 02/11/2023
 
-Esta Política de Privacidad describe como “WalletCare” (el desarrollador) recopilan, utilizan y comparten la información cuando utilizas nuestra aplicación móvil. En este aviso de privacidad, brindamos información sobre que datos personales procesamos y con que fines, cuales son sus derechos como usuarios de la aplicación y donde puede contactarnos en caso de que tenga una pregunta o inquietud sobre el procesamiento de sus datos o información en general de la aplicación.
+Esta Política de Privacidad describe como “WalletCare” (el desarrollador) recopilan, utilizan y comparten la información cuando utilizas nuestra aplicación móvil. En este aviso de privacidad, brindamos información sobre qué datos personales procesamos y con que fines, cuáles son sus derechos como usuarios de la aplicación y donde puede contactarnos en caso de que tenga una pregunta o inquietud sobre el procesamiento de sus datos o información en general de la aplicación.
 Solo procesamos datos personales cuando tenemos su consentimiento o cuando tenemos derecho a hacerlo por motivos legítimos, particularmente hablando de:
 •	El procesamiento es necesario para el cumplimiento de una obligación legal a la que estemos sujetos.
 •	El procesamiento es necesario para la prestación del servicio y para permitirnos contratar con usted en relación con prestación de servicio.
@@ -53,7 +53,7 @@ No compartimos estos datos a ningún tercero, a menos que sean anónimos o se ut
 
 ¿Cuáles son los destinatarios de sus datos personales? 
 
-Es posible que la ley nos obligue a otorgarles acceso a los datos personales del usuario que procesamos con el fin de investigar actividades delictivas y violaciones de la ley, a agencias judiciales o agencias gubernamentales. En particular, a autoridades encargadas de hacer cumplir la ley, sujetas a ordenes judiciales, citaciones u otras órdenes. 
+Es posible que la ley nos obligue a otorgarles acceso a los datos personales del usuario que procesamos con el fin de investigar actividades delictivas y violaciones de la ley, a agencias judiciales o agencias gubernamentales. En particular, a autoridades encargadas de hacer cumplir la ley, sujetas a órdenes judiciales, citaciones u otras órdenes. 
 Retención de datos de WalletCare
 Mantendremos la información personal en nuestro sistema mientras utilice activamente el inicio de sesión de Google con la aplicación WalletCare. También eliminaremos cualquier dato que nos haya proporcionado mientras usa la aplicación WalletCare si nos lo solicita. En caso de Cese de la empresa o interrupción del servicio, sus datos serán eliminados definitivamente.
 
@@ -81,7 +81,7 @@ Las cookies nos permiten recordar las preferencias personalizadas de los usuario
 
 ¿Dónde guardamos tus datos?
 
-Al nosotros generar un respaldo de tu aplicación con tu consentimiento, se almacenará automáticamente en tu cuenta de Google Drive. En ningún momento tu respaldo se moverá a unidades de almacenamiento propias de los desarrolladores de WalletCare a menos que solicitemos tu consentimiento y este sea aprobado por correo electrónico. S necesitas obtener información sobre donde almacenamos los datos personales comunícate al correo utptecdevelopmail.com
+Al nosotros generar un respaldo de tu aplicación con tu consentimiento, se almacenará automáticamente en tu cuenta de Google Drive. En ningún momento tu respaldo se moverá a unidades de almacenamiento propias de los desarrolladores de WalletCare a menos que solicitemos tu consentimiento y este sea aprobado por correo electrónico. S necesitas obtener información sobre donde almacenamos los datos personales comunícate al correo utptecdevelop@mail.com
 
 
 Seguridad física
@@ -91,7 +91,7 @@ Los datos de tu cuenta y para habilitar las características premium, se guardan
 
 Contacto
 
-Puede ponerse en contacto con nosotros en la dirección de correo electrónico utptecdevelo@gmail.com
+Puede ponerse en contacto con nosotros en la dirección de correo electrónico utptecdevelop@gmail.com
 Nuestro equipo responderá a sus consultas dentro de los siguientes 7 días hábiles.
 Política de rectificación y eliminación de datos 
 Tiene derecho a solicitar que rectifiquemos cualquier dato inexacto que le concierna. 
@@ -102,11 +102,11 @@ Además, tiene derecho a solicitar que borramos sus datos personales sin demora 
 •	Los datos personales deben borrarse para cumplir con una obligación legal.
 
 Con el fin de garantizar la capacidad continua de la aplicación en caso de mal funcionamiento o daño a nuestros servicios, conservamos copias de seguridad de partes de sus datos derivados de la información de su cuenta en nuestros servicios. Sus datos agregados se almacenan en estos servidores de forma indebida. Nos reservamos el derecho de utilizar cualquier dato agregado o anónimo derivado o incorporado a su información personal. 
-Usted es responsable de mantener la exactitud de la información que nos envía, como su información de contacto proporcionada. Si su información personal cambia, o si ya no desea utilizar nuestros servicios, puede corregir o eliminar inexactitudes a través del correo electrónico utptecdevelopmail.com
+Usted es responsable de mantener la exactitud de la información que nos envía, como su información de contacto proporcionada. Si su información personal cambia, o si ya no desea utilizar nuestros servicios, puede corregir o eliminar inexactitudes a través del correo electrónico utptecdevelop@mail.com
 Sin embargo, en algunos casos no podemos eliminar toda la información que tenemos sobre usted.
 
 
 Cambios en la política de privacidad
 
 Este acuerdo de privacidad cambiará el día en que la aplicación ya no se encuentre disponible en la beta de la App Store de Google Play.
-Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento. Te recomendamos revisar periódicamente esta página para estar al tanto de cualquier cambio. La fecha de la última actualización se indicará al comienzo de la política de privacidad. 
+Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento. Te recomendamos revisar periódicamente esta página para estar al tanto de cualquier cambio. La fecha de la última actualización se indicará al comienzo de la política de privacidad.
