@@ -1,0 +1,112 @@
+PÓLITICA DE PRIVACIDAD Y TERMINOS DEL SERVICIO PARA LA APLICACIÓN “WalletCare”
+Última modificación: 02/11/2023
+
+Esta Política de Privacidad describe como “WalletCare” (el desarrollador) recopilan, utilizan y comparten la información cuando utilizas nuestra aplicación móvil. En este aviso de privacidad, brindamos información sobre que datos personales procesamos y con que fines, cuales son sus derechos como usuarios de la aplicación y donde puede contactarnos en caso de que tenga una pregunta o inquietud sobre el procesamiento de sus datos o información en general de la aplicación.
+Solo procesamos datos personales cuando tenemos su consentimiento o cuando tenemos derecho a hacerlo por motivos legítimos, particularmente hablando de:
+•	El procesamiento es necesario para el cumplimiento de una obligación legal a la que estemos sujetos.
+•	El procesamiento es necesario para la prestación del servicio y para permitirnos contratar con usted en relación con prestación de servicio.
+No procesamos ninguna categoría especial de datos personales. Quiere decir que, no procesamos ningún dato personal que revele opiniones políticas, origen racial o étnico, creencias religiosas, datos biométricos para la identificación de una persona física, datos relativos a la salud o datos relativos a la vida y orientación sexuales de una persona física.
+Si usted es menor de edad, busque el consejo de una persona adulta que tenga la responsabilidad parental antes de comenzar a utilizar la aplicación WalletCare.
+
+
+Definiciones
+
+Por información personal o datos personales se entiende en generar cualquier dato o información relativa a la persona identificada o identificable que utiliza la aplicación. Una persona física identificable es aquella que puede identificarse directa o indirectamente, mediante un identificador como un nombre, número de identificación, datos de ubicación, o uno o más factores específicos de esta persona física.
+
+Proveedor o nosotros significa los desarrolladores que se encargan de dar mantenimiento y actualización constante a la aplicación.
+
+Usuario o usted significa cualquier persona que utilice WalletCare u otras aplicaciones creado o puesto a disposición por nosotros.
+
+Aplicación significa un programa especializado utilizado por el usuario, como la aplicación WalletCare.
+
+App Store significa una plataforma de tienda de aplicaciones que permite al usuario buscar y descargar aplicaciones, por ejemplo, Google Play.
+
+WalletCare significa una aplicación (programa para dispositivo móvil) que fue creado por el proveedor con la finalidad de apoyar a los usuarios registrando sus ingresos y gastos, así como otros registros o contenidos financieros o no financieros a elección del usuario. A través de WalletCare, puede otorgarle al proveedor su consentimiento para solicitar información sobre su cuenta de pago a un tercero, que mantiene su cuenta de pago para contratar las características premium de la aplicación. 
+
+Cookies significa una pequeña cantidad de datos que a menudo incluye un identificador único anónimo, que se envía a su navegador desde las computadoras de un sitio web y se almacena en el disco duro de su computadora.
+
+Tercero significa una organización con la que el proveedor coopera (y que puede proporcionar ciertas partes del servicio u operar una aplicación utilizada por un usuario, según sea el caso).
+
+Las Características Premium significan un conjunto adicional de servicios que aportan cierto valor para ciertos usuarios y a los que se puede acceder durante el periodo de prueba o mediante una compra dentro de la aplicación. Este conjunto de funciones no es definitivo ya que nosotros podemos agregar o eliminar funciones Premium. Las Características Premium se encuentran habilitadas totalmente para que los usuarios puedan probar dichas características para la beta en la App Store de Google Play.
+
+Contenido significa algo que se expresara en WalletCare, sitio web u otros medios. El contenido puede ser creado por el proveedor o por el usuario.
+
+
+¿Qué información solicitamos y como la recopilamos?
+
+Procesamos los datos personales de identificación que usted nos proporciona cuando crea una cuenta y completa formularios durante el proceso de registro. Para registrarse en la aplicación WalletCare, es necesario iniciar sesión a través de los servicios de Google. Este inicio de sesión nos ayuda a brindarle las características premium de la aplicación. Iniciar sesión con Google es voluntario, ya que la aplicación se puede utilizar sin las características premium de la aplicación. Cuando elige iniciar sesión en la aplicación utilizando su cuenta de Google, recibiremos parte de la información de su cuenta de Google correspondiente a su configuración de privacidad de Google. 
+Cuando utiliza la aplicación WalletCare y nos otorga permiso para ello, nos permite:
+•	Leer, modificar fotos/medios/archivos para permitirle leer contenido como la evidencia de sus transacciones.
+•	Utilizar la cámara para tomar fotografías de sus recibos y complementar las transacciones que registra.
+•	Ver conexión Wi-Fi que nos permite validar su inicio de sesión con Google.
+•	Realizar notificaciones para conocer actualizaciones de la aplicación, recordatorios de registro de sus transacciones.
+•	Realizar tareas en segundo plano para poder generar un recordatorio de la aplicación.
+Los permisos anteriores son opcionales y siempre puede cambiar su configuración en su dispositivo en el apartado Configuración – Aplicaciones – Permisos.
+
+
+¿Para que utilizamos tus datos personales?
+
+Sus datos pueden usarse para brindar los servicios que solicite en relación con el uso de la aplicación WalletCare. Enviar comunicados o contactarlo con información relevante sobre servicios u ofertas de la misma aplicación u otras. 
+Podemos utilizar análisis tecnológicos para crear preferencias de los usuarios, lo que nos permitirá brindarle un mejor servicio y hacerle ofertas personalizadas.
+No compartimos estos datos a ningún tercero, a menos que sean anónimos o se utilice la seudonimización de por medio (por ejemplo, utilizando su código ID de Google, que no permite que terceros lo identifiquen), o a menos que usted nos solicite que compartamos los datos y darnos su consentimiento para tal intercambio. 
+
+
+¿Cuáles son los destinatarios de sus datos personales? 
+
+Es posible que la ley nos obligue a otorgarles acceso a los datos personales del usuario que procesamos con el fin de investigar actividades delictivas y violaciones de la ley, a agencias judiciales o agencias gubernamentales. En particular, a autoridades encargadas de hacer cumplir la ley, sujetas a ordenes judiciales, citaciones u otras órdenes. 
+Retención de datos de WalletCare
+Mantendremos la información personal en nuestro sistema mientras utilice activamente el inicio de sesión de Google con la aplicación WalletCare. También eliminaremos cualquier dato que nos haya proporcionado mientras usa la aplicación WalletCare si nos lo solicita. En caso de Cese de la empresa o interrupción del servicio, sus datos serán eliminados definitivamente.
+
+
+Consentimiento
+
+Si nos otorgó su consentimiento para procesar sus datos personales, puede retirar su consentimiento en cualquier momento sin afectar la legalidad del procesamiento basado en el consentimiento. Esto lo puede realizar utilizando el botón “Eliminación de cuenta” y “Eliminación de respaldos” en la sección configuración.
+
+
+Cookies
+Las cookies nos permiten recordar las preferencias personalizadas de los usuarios, ayudan al usuario a completar tareas sin tener que volver a ingresar la información cuando se navega a través de la aplicación.
+¿Qué cookies utilizamos? 
+•	Usuario: se utiliza para guardar la sesión actual del usuario.
+•	Tema: guarda por defecto el tema utilizado (claro/oscuro).
+•	Idioma: Idioma de la aplicación.
+•	Numérico: preferencias numéricas de la configuración.
+•	Periodo: preferencias del periodo por defecto en la aplicación.
+•	Date: preferencias del formato de fecha.
+•	Cuenta: preferencias de la cuenta por defecto.
+•	Offline: Mantener la función offline activada/desactivada.
+•	Fecha en línea: Próxima fecha para conectarse a internet automáticamente.
+•	Recorrido: Recorrido de funciones de la aplicación activado/desactivado.
+•	Cookie inicio sesión primera vez: se utiliza para guardar la lista de usuarios que han ingresado en el dispositivo.
+
+
+¿Dónde guardamos tus datos?
+
+Al nosotros generar un respaldo de tu aplicación con tu consentimiento, se almacenará automáticamente en tu cuenta de Google Drive. En ningún momento tu respaldo se moverá a unidades de almacenamiento propias de los desarrolladores de WalletCare a menos que solicitemos tu consentimiento y este sea aprobado por correo electrónico. S necesitas obtener información sobre donde almacenamos los datos personales comunícate al correo utptecdevelopmail.com
+
+
+Seguridad física
+
+Los datos de tu cuenta y para habilitar las características premium, se guardan en Firebase, en los centros de datos de Google. Google trabaja con centros de datos de última generación, donde su seguridad física incluye protecciones como tarjetas de acceso electrónicas personalizadas, alarmas, barreras de acceso para vehículos, cercas perimetrales, detectores de metales y sistema biométricos. Además, detectan y rastrean intrusos usando detección de intrusiones con rayos láser y supervisión las 24 horas los 365 días del año.
+
+
+Contacto
+
+Puede ponerse en contacto con nosotros en la dirección de correo electrónico utptecdevelo@gmail.com
+Nuestro equipo responderá a sus consultas dentro de los siguientes 7 días hábiles.
+Política de rectificación y eliminación de datos 
+Tiene derecho a solicitar que rectifiquemos cualquier dato inexacto que le concierna. 
+Además, tiene derecho a solicitar que borramos sus datos personales sin demora indebida si:
+•	Los datos personales ya no son necesarios en relación con los fines para los cuales fueron recopilados o procesados de otro modo.
+•	Procesamos sus datos personales sobre la base de su consentimiento y usted retira dicho consentimiento y cuando no existe otro fundamento legal para el procesamiento.
+•	Los datos personales han sido tratados ilícitamente.
+•	Los datos personales deben borrarse para cumplir con una obligación legal.
+
+Con el fin de garantizar la capacidad continua de la aplicación en caso de mal funcionamiento o daño a nuestros servicios, conservamos copias de seguridad de partes de sus datos derivados de la información de su cuenta en nuestros servicios. Sus datos agregados se almacenan en estos servidores de forma indebida. Nos reservamos el derecho de utilizar cualquier dato agregado o anónimo derivado o incorporado a su información personal. 
+Usted es responsable de mantener la exactitud de la información que nos envía, como su información de contacto proporcionada. Si su información personal cambia, o si ya no desea utilizar nuestros servicios, puede corregir o eliminar inexactitudes a través del correo electrónico utptecdevelopmail.com
+Sin embargo, en algunos casos no podemos eliminar toda la información que tenemos sobre usted.
+
+
+Cambios en la política de privacidad
+
+Este acuerdo de privacidad cambiará el día en que la aplicación ya no se encuentre disponible en la beta de la App Store de Google Play.
+Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento. Te recomendamos revisar periódicamente esta página para estar al tanto de cualquier cambio. La fecha de la última actualización se indicará al comienzo de la política de privacidad. 
