@@ -102,7 +102,7 @@ Además, tiene derecho a solicitar que borramos sus datos personales sin demora 
 •	Los datos personales deben borrarse para cumplir con una obligación legal.
 
 Con el fin de garantizar la capacidad continua de la aplicación en caso de mal funcionamiento o daño a nuestros servicios, conservamos copias de seguridad de partes de sus datos derivados de la información de su cuenta en nuestros servicios. Sus datos agregados se almacenan en estos servidores de forma indebida. Nos reservamos el derecho de utilizar cualquier dato agregado o anónimo derivado o incorporado a su información personal. 
-Usted es responsable de mantener la exactitud de la información que nos envía, como su información de contacto proporcionada. Si su información personal cambia, o si ya no desea utilizar nuestros servicios, puede corregir o eliminar inexactitudes a través del correo electrónico utptecdevelop@mail.com
+Usted es responsable de mantener la exactitud de la información que nos envía, como su información de contacto proporcionada. Si su información personal cambia, o si ya no desea utilizar nuestros servicios, puede corregir o eliminar inexactitudes a través del correo electrónico utptecdevelop@gmail.com
 Sin embargo, en algunos casos no podemos eliminar toda la información que tenemos sobre usted.
 
 
