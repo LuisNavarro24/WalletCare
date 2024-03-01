@@ -1,5 +1,5 @@
 PÓLITICA DE PRIVACIDAD Y TERMINOS DEL SERVICIO PARA LA APLICACIÓN “WalletCare”
-Última modificación: 02/11/2023
+Última modificación: 01/03/2024
 
 Esta Política de Privacidad describe como “WalletCare” (el desarrollador) recopilan, utilizan y comparten la información cuando utilizas nuestra aplicación móvil. En este aviso de privacidad, brindamos información sobre qué datos personales procesamos y con que fines, cuáles son sus derechos como usuarios de la aplicación y donde puede contactarnos en caso de que tenga una pregunta o inquietud sobre el procesamiento de sus datos o información en general de la aplicación.
 Solo procesamos datos personales cuando tenemos su consentimiento o cuando tenemos derecho a hacerlo por motivos legítimos, particularmente hablando de:
@@ -27,9 +27,17 @@ Cookies significa una pequeña cantidad de datos que a menudo incluye un identif
 
 Tercero significa una organización con la que el proveedor coopera (y que puede proporcionar ciertas partes del servicio u operar una aplicación utilizada por un usuario, según sea el caso).
 
-Las Características Premium significan un conjunto adicional de servicios que aportan cierto valor para ciertos usuarios y a los que se puede acceder durante el periodo de prueba o mediante una compra dentro de la aplicación. Este conjunto de funciones no es definitivo ya que nosotros podemos agregar o eliminar funciones Premium. Las Características Premium se encuentran habilitadas totalmente para que los usuarios puedan probar dichas características para la beta en la App Store de Google Play.
+Características Premium significan un conjunto adicional de servicios que aportan cierto valor para ciertos usuarios y a los que se puede acceder durante el periodo de prueba o mediante una compra dentro de la aplicación. Este conjunto de funciones no es definitivo ya que nosotros podemos agregar o eliminar funciones Premium. Las Características Premium se encuentran habilitadas totalmente para que los usuarios puedan probar dichas características para la beta en la App Store de Google Play.
 
 Contenido significa algo que se expresara en WalletCare, sitio web u otros medios. El contenido puede ser creado por el proveedor o por el usuario.
+
+Correo electrónico significa servicio de red que permite a los usuarios enviar y recibir mensajes mediante redes de comunicación electrónica.
+
+ID de usuario de Google es un número exclusivo que permite identificar la cuenta de usuario de Google.
+
+Tipo de usuario WalletCare es como diferenciamos entre un usuario que cuenta con las Características Premium y la versión gratuita.
+
+Fecha de próximo pago nos permite identificar un usuario que está próximo a llegar a la fecha de expiración de sus Caractéristicas Premium, para poder indicarle notificaciones de renovación de características.
 
 
 Manejo de cuentas en la aplicación
@@ -40,12 +48,17 @@ Las cuentas que registras en WalletCare representan los fondos reales de tus cue
 
 Procesamos los datos personales de identificación que usted nos proporciona cuando crea una cuenta y completa formularios durante el proceso de registro. Para registrarse en la aplicación WalletCare, es necesario iniciar sesión a través de los servicios de Google. Este inicio de sesión nos ayuda a brindarle las características premium de la aplicación. Iniciar sesión con Google es voluntario, ya que la aplicación se puede utilizar sin las características premium de la aplicación. Cuando elige iniciar sesión en la aplicación utilizando su cuenta de Google, recibiremos parte de la información de su cuenta de Google correspondiente a su configuración de privacidad de Google. 
 Cuando utiliza la aplicación WalletCare y nos otorga permiso para ello, nos permite:
+•	Almacenar su correo electrónico, ID de usuario de Google, Tipo de usuario WalletCare y fecha de próximo pago.
 •	Leer, modificar fotos/medios/archivos para permitirle leer contenido como la evidencia de sus transacciones.
 •	Utilizar la cámara para tomar fotografías de sus recibos y complementar las transacciones que registra.
 •	Ver conexión Wi-Fi que nos permite validar su inicio de sesión con Google.
 •	Realizar notificaciones para conocer actualizaciones de la aplicación, recordatorios de registro de sus transacciones.
 •	Realizar tareas en segundo plano para poder generar un recordatorio de la aplicación.
+Para solicitar la eliminación de su información, consulte la clausula "CONTACTO".
 Los permisos anteriores son opcionales y siempre puede cambiar su configuración en su dispositivo en el apartado Configuración – Aplicaciones – Permisos.
+
+Recopilación de correo electrónico para pagos
+Utilizamos la herramienta "Stripe" para realizar el cobro a los usuarios que desean acceder a la versión Premium. Para brindar el servicio premium, almacenamos el correo electrónico, ID de usuario de Google, tipo de usuario WalletCare y fecha proximo pago. Consulta las definiciones de cada uno de estos campos en el apartado "Definiciones". Para solicitar la eliminación de su información, consulte la clausula "CONTACTO".
 
 
 ¿Para que utilizamos tus datos personales?
@@ -104,6 +117,7 @@ Además, tiene derecho a solicitar que borramos sus datos personales sin demora 
 •	Procesamos sus datos personales sobre la base de su consentimiento y usted retira dicho consentimiento y cuando no existe otro fundamento legal para el procesamiento.
 •	Los datos personales han sido tratados ilícitamente.
 •	Los datos personales deben borrarse para cumplir con una obligación legal.
+Para eliminar la información actual de su cuenta, es necesario que nos proporcione su correo electrónico. Al momento de solicitar la eliminación de la información, el cambio será irreversible y dejará de contar con la versión premium en caso de contar con días vigentes en dicha versión. 
 
 Con el fin de garantizar la capacidad continua de la aplicación en caso de mal funcionamiento o daño a nuestros servicios, conservamos copias de seguridad de partes de sus datos derivados de la información de su cuenta en nuestros servicios. Sus datos agregados se almacenan en estos servidores de forma indebida. Nos reservamos el derecho de utilizar cualquier dato agregado o anónimo derivado o incorporado a su información personal. 
 Usted es responsable de mantener la exactitud de la información que nos envía, como su información de contacto proporcionada. Si su información personal cambia, o si ya no desea utilizar nuestros servicios, puede corregir o eliminar inexactitudes a través del correo electrónico utptecdevelop@gmail.com
